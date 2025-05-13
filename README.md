@@ -1,4 +1,4 @@
-#FitnahShield: AI-Powered Image Processing to Prevent Visual Exposure to Non-Mahram Individuals
+# FitnahShield: AI-Powered Image Processing to Prevent Visual Exposure to Non-Mahram Individuals
 
 FitnahShield is an advanced AI-based image processing tool designed to help Muslims safeguard their gaze by automatically blurring or obscuring non-mahram individuals in real-time. Utilizing state-of-the-art computer vision technologies, FitnahShield provides a digital solution that helps maintain modesty in today’s fast-paced, tech-driven world.
 
